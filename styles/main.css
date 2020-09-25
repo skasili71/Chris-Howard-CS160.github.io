@@ -1,0 +1,16 @@
+h1 {
+    background-color: rgb(170, 170, 170);
+    border-style: groove;
+}
+
+a {
+    font-size: 30pt; border-style: dotted;  border-color: white;
+}
+
+div {
+    border-style: dotted;    
+    border:4px white;
+}
+body {
+    background-color: lightblue;
+  }
